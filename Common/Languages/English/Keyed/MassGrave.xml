@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<MassGrave_Settings>Mass Graves</MassGrave_Settings>
+  <MassGrave_DefaultButton>Reset to default</MassGrave_DefaultButton>
+	<MassGrave_UseAlt>Use alternate graphic (only new graves)</MassGrave_UseAlt>
+  <MassGrave_Capacity>Capacity</MassGrave_Capacity>
+  <MassGrave_LifeTime>Lifetime</MassGrave_LifeTime>
+  <MassGrave_EnableDestroyButton>Enable destroy corpse ability on mass grave</MassGrave_EnableDestroyButton>
+  <MassGrave_AlwaysAllowDestroyButton>Always allow destroy ability for mass grave in any amount of corpse stored</MassGrave_AlwaysAllowDestroyButton>
+  <MassGrave_EnableCorpseAutocleanupButton>Allow mass grave auto-cleanup once it's full (may be performance costly)</MassGrave_EnableCorpseAutocleanupButton>
+  <MassGrave_CleanupDaysInterval>Cleanup check day interval (lower value means more frequent)</MassGrave_CleanupDaysInterval>
+  <CommandMassGraveDestroyCorpsesLabel>Destroy Corpses</CommandMassGraveDestroyCorpsesLabel>
+  <CommandMassGraveDestroyCorpsesDesc>Empty the grave by destroying corpses inside</CommandMassGraveDestroyCorpsesDesc>
+  <CommandMassGraveInsufficientCount>Not enough corpses to empty the grave</CommandMassGraveInsufficientCount>
+</LanguageData>
